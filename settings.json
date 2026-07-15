@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "epstinishereheheh.aternos.me",
+    "ip": "247-aternos-server.aternos.me",
     "port": 28674,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
